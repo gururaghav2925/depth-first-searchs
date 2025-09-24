@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-Name: Guru Raghav Ponjeevith V
-Register Number: 212223220027 
+<h2>Name: Guru Raghav Ponjeevith V </h2></br>
+<h2>Register Number: 212223220027 </h2></br>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
